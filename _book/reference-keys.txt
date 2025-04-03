@@ -1,0 +1,16 @@
+date-2024-04-16
+howto-chapter
+installing-r-and-rstudio
+the-tidyverse-pipe
+data-viz-chapter
+custom-theme-chapter
+maps-chapter
+tables-chapter
+rmarkdown-chapter
+parameterized-reports-chapter
+presentations-chapter
+websites-chapter
+the-_site.yml-file--
+quarto-chapter
+accessing-data-chapter
+packages-chapter

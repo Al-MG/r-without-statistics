@@ -1,8 +1,19 @@
-# Introduction {-}
+# پیش گفتار {-}
 
-In early 2020, as the world struggled to contain the spread of COVID-19, one country succeeded where others did not: New Zealand. There are many reasons New Zealand was able to tackle COVID-19. One of these was the R programming language (yes, really).
 
-How did a humble tool for data analysis help New Zealand fight COVID-19? It allowed a team at the Ministry of Health to generate daily reports on cases throughout New Zealand. These reports enabled officials to develop policies that kept the country largely COVID-19 free. The team was small, however, so producing these reports every day with a tool like Excel wouldn’t have been feasible. As team leader Chris Knox told me, "Trying to do what we did in a point-and-click environment is not possible." 
+
+زندگی خوب چیست؟ و چگونه می‌توانیم چنین زندگی‌ای را برای خود بسازیم؟
+این کتاب برای آن طراحی شده است که به شما کمک کند تا درباره‌ی این پرسش‌های بزرگ بیندیشید، با بهره‌گیری از زندگی‌نامه‌ها، اندیشه‌ها و شیوه‌های عملی سیزده تن از برجسته‌ترین فیلسوفان یونان و روم باستان.
+لطفاً از واژه‌ی «فیلسوف» نهراسید.
+اینجا نه خبری از امتحان پایانی هست و نه پرسش‌های چهارگزینه‌ای درباره‌ی تاریخ تولد و مرگ فیلسوفان.
+در عوض، از برترین اندیشه‌های باستان همچون قطب‌نما بهره می‌گیریم تا راهی نو در پیش گیریم—راهی با معنا و با هدف.
+هدف آن است که این کتاب به شما یاری رساند تا فلسفه‌ی زندگی معنا‌داری برای خود بسازید و در جهانی پر از ابهام راه خود را بیابید.
+با هم از میان برجسته‌ترین مکاتب فکری یونان و روم باستان گذر خواهیم کرد.
+در هر فصل، هم نگاهی خواهیم داشت به زندگی هر فیلسوف و هم کنکاشی در فلسفه‌ی عملی او، و در پایان تمرین‌هایی برای به‌کارگیری آموزه‌های آن فیلسوف ارائه می‌شود.
+اما چرا برای این کندوکاو در پرسش‌های بنیادین زندگی، فلسفه‌ی یونان و روم را برگزیدیم؟
+نخست آنکه بی‌گمان، یونانیان و رومیان باستان نقشی ژرف و ماندگار در شکل‌گیری فلسفه‌ی زندگی در غرب ایفا کرده‌اند.
+اندیشمندانی از پیش‌سقراطیان تا نوافلاطونیان عمر خود را صرف اندیشیدن به عالی‌ترین خیر در زندگی و چگونگی رسیدن به آن کرده‌اند
+
 
 Instead, a few staff members wrote R code that they could re-run every day to produce updated reports. These reports did not involve any complicated statistics; they were literally counts of COVID-19 cases. Their value came from everything else R can do: data analysis and visualization, report creation, and workflow automation. 
 
